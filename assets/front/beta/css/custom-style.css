@@ -1,0 +1,7 @@
+.section-jobs-alpha-item-right-content span {
+    margin-right: 10px;
+    background: var(--site-btn-bg);
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: var(--site-box-border-color);
+}

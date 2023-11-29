@@ -1,0 +1,11 @@
+<div class="footer-contact">
+<h4>Contact Us</h4>
+
+<p>ABC Street<br />
+New York, NY 123456<br />
+United States<br />
+<strong>Phone:</strong> +1 2345 67899 00<br />
+<strong>Email:</strong> info@example.com</p>
+
+<div class="social-links"><a class="twitter" href="https://www.twitter.com"><i class="fab fa-twitter">&nbsp;</i></a> <a class="facebook" href="https://www.facebook.com"><i class="fab fa-facebook">&nbsp;</i></a> <a class="instagram" href="https://www.instagram.com"><i class="fab fa-instagram">&nbsp;</i></a> <a class="google-plus" href="https://www.google.com"><i class="fab fa-google-plus">&nbsp;</i></a> <a class="linkedin" href="https://www.linkedin.com"><i class="fab fa-linkedin">&nbsp;</i></a></div>
+</div>

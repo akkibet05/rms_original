@@ -1,0 +1,13 @@
+department,title,slug,description,meta_keywords,meta_description,min_salary,max_salary,number_of_positions,expiry_date,published_at,status,is_static_allowed
+Marketing,Marketing Executive,,<h2>What is Lorem Ipsum?</h2>  <p>Lorem Ipsum is s,Marketing Executive,Marketing Executive,25,250,1,11/30/2023,11/3/2023,1,0
+Accounting,Accounts Manager,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Accounts Manager,Accounts Manager,50,500,2,11/30/2023,11/3/2023,1,0
+Information Technology,Computer System Analyst,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Computer System Analyst,Computer System Analyst,75,750,1,11/30/2023,11/3/2023,1,0
+Network Administrator,Network Administrator,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Network Administrator,Network Administrator,100,1000,2,11/30/2023,11/3/2023,1,0
+Project Management,Project Manager,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Project Manager,Project Manager,25,250,1,11/30/2023,11/3/2023,1,0
+Human Resource,HR Business Partner,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,HR Business Partner,HR Business Partner,50,500,2,11/30/2023,11/3/2023,1,0
+Administration,Quality Supervisor,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Quality Supervisor,Quality Supervisor,75,750,1,11/30/2023,11/3/2023,1,0
+Information Technology,Sr. Software Engineer,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Sr. Software Engineer,Sr. Software Engineer,100,1000,3,11/30/2023,11/3/2023,1,0
+Administration,Support Staff,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Support Staff,Support Staff,25,250,2,11/30/2023,11/3/2023,1,0
+Administration,Warehouse Supervisor,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Warehouse Supervisor,Warehouse Supervisor,50,500,1,11/30/2023,11/3/2023,1,0
+Administration,Legal Advisor,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,Legal Advisor,Legal Advisor,75,750,1,11/30/2023,11/3/2023,1,0
+Administration,CTO,,<h2>What is Lorem Ipsum?</h2> <p>Lorem Ipsum is si,CTO,CTO,100,1000,1,11/30/2023,11/3/2023,1,0

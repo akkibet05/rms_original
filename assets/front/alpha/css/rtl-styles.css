@@ -1,0 +1,15 @@
+#header .logo {direction: rtl !important; float: right !important;}
+#header .main-nav {float: left !important;}
+#intro {direction: rtl; text-align: right;}
+#how-it-works .boxes-container {direction: rtl;}
+#departments .boxes-container {direction: rtl;}
+#footer .boxes-container {direction: rtl; text-align: right;}
+#home-custom-content .content {direction: rtl; text-align: right;}
+#news-section .boxes-container {direction: rtl; text-align: right;}
+.account-box {direction: rtl; text-align: right;}
+.modal-content {direction: rtl; text-align: right;}
+.account-area-left {direction: rtl; text-align: right;}
+.resume-item-box {direction: rtl; text-align: right;}
+.dotmenu {right: -30px !important; float: left;}
+#about {direction: rtl; text-align: right;}
+.job-application-progress > .job-application-progress-step:first-child > .progress {left: -50% !important;}
